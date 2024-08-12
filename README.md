@@ -1,3 +1,7 @@
+![Główny panel raportu](raport.png)
+
+
+
 # Raport Sprzedaży Kawy - Power BI
 
 ## Opis
