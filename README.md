@@ -1,4 +1,4 @@
-![Główny panel raportu](raport.png)
+![Główny panel raportu](raport.PNG)
 
 
 
